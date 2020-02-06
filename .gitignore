@@ -1,3 +1,4 @@
+
 results/
 
 
@@ -132,3 +133,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+
+/.stylegan2-cache/
+__pycache__/
